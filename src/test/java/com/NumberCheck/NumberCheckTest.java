@@ -27,6 +27,6 @@ public class NumberCheckTest {
 	public void testdiv1()
 	{
 		NumberCheckMain num=new NumberCheckMain();
-		Assert.assertEquals(-2,num.multi());
+		Assert.assertEquals(-2,num.div());
 	}
 }
